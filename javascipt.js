@@ -1,9 +1,9 @@
 // Selezione elementi nella pagina
 
-// Seleziono la lista usando L'ID
+// Seleziomo la lista usando L'ID
 const OutputList = document.getElementById("lista");
 
-// Seleziono il bottone usando L'ID
+// Seleziomo il bottone usando L'ID
 const bottone = document.getElementById("bottone");
 
 // Creiamo una variabile che contenga l'email che verranno randomizzate
